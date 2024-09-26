@@ -6,10 +6,8 @@ Credits to Liam Vickers for the design, and credits to [Crafting Interpreters](h
 
 ## How to use (Command wise)
 
-```
 <exe> <file>.npp
-nppc file.npp
-```
+nppc1 file.npp
 
 ## How to use (Code wise)
 
